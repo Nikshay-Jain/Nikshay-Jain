@@ -1,8 +1,10 @@
 ### Hi there 👋
-I am Nikshay Jain, a student at the Indian Institute of Technology Madras (IIT Madras). Fascinated by technology, I am a tech and engineering enthusiast, aspiring to build products that amaze and applications that revolutionise.
+✨ I am Nikshay Jain, a student at the Indian Institute of Technology Madras (IIT Madras) ✨
 
-Feel free to reach out to me over:
-[Linkedin](https://www.linkedin.com/in/nikshay-jain-82766424a/)
+Fascinated by technology, I am a tech and engineering enthusiast, aspiring to build products that amaze and applications that revolutionise.
+
+Feel free to connect if a great idea, exciting opportunity, or simply a friendly mindset accompanies you!
+
 <!--
 **Nikshay-Jain/Nikshay-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
