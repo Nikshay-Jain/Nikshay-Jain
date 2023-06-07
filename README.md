@@ -3,7 +3,7 @@
 
 Fascinated by technology, I am a tech and engineering enthusiast, aspiring to build products that amaze and applications that revolutionise.
 
-Feel free to connect if a great idea, exciting opportunity, or simply a friendly mindset accompanies you!
+I would be elated to connect if a great idea, exciting opportunity, or simply a friendly mindset accompanies you!
 
 <!--
 **Nikshay-Jain/Nikshay-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
