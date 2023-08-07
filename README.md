@@ -1,5 +1,5 @@
 # Hi there 👋
-### `✨ I'm Nikshay Jain, student at the Indian Institute of Technology Madras (IIT Madras) ✨`
+### ✨ I'm Nikshay Jain, student at the Indian Institute of Technology Madras (IIT Madras) ✨
 
 Fascinated by technology, I am a tech and engineering enthusiast, aspiring to build products that amaze and applications that revolutionise.
 
